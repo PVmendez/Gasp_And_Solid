@@ -1,0 +1,9 @@
+C:\Users\chapi\OneDrive\Escritorio\PROG\Proyectos\GASP\Proyecto_Gasp_And_Solid\Grasp_and_Solid_2\src\Library\bin\Debug\netcoreapp3.1\Library.deps.json
+C:\Users\chapi\OneDrive\Escritorio\PROG\Proyectos\GASP\Proyecto_Gasp_And_Solid\Grasp_and_Solid_2\src\Library\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\chapi\OneDrive\Escritorio\PROG\Proyectos\GASP\Proyecto_Gasp_And_Solid\Grasp_and_Solid_2\src\Library\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\chapi\OneDrive\Escritorio\PROG\Proyectos\GASP\Proyecto_Gasp_And_Solid\Grasp_and_Solid_2\src\Library\obj\Debug\netcoreapp3.1\Library.csproj.AssemblyReference.cache
+C:\Users\chapi\OneDrive\Escritorio\PROG\Proyectos\GASP\Proyecto_Gasp_And_Solid\Grasp_and_Solid_2\src\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
+C:\Users\chapi\OneDrive\Escritorio\PROG\Proyectos\GASP\Proyecto_Gasp_And_Solid\Grasp_and_Solid_2\src\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
+C:\Users\chapi\OneDrive\Escritorio\PROG\Proyectos\GASP\Proyecto_Gasp_And_Solid\Grasp_and_Solid_2\src\Library\obj\Debug\netcoreapp3.1\Library.csproj.CoreCompileInputs.cache
+C:\Users\chapi\OneDrive\Escritorio\PROG\Proyectos\GASP\Proyecto_Gasp_And_Solid\Grasp_and_Solid_2\src\Library\obj\Debug\netcoreapp3.1\Library.dll
+C:\Users\chapi\OneDrive\Escritorio\PROG\Proyectos\GASP\Proyecto_Gasp_And_Solid\Grasp_and_Solid_2\src\Library\obj\Debug\netcoreapp3.1\Library.pdb
